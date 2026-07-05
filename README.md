@@ -4,7 +4,7 @@
 
 Discover fast, reliable, and easy-to-use Android apps designed to improve productivity, simplify everyday tasks, and enhance your mobile experience.
 
-<a href="https://play.google.com/store/apps/dev?id=YOUR_DEVELOPER_ID">
+<a href="https://play.google.com/store/apps/developer?id=NK%20Tech(NP)">
   <img src="https://img.shields.io/badge/Google_Play-Developer_Page-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
 </a>
 
